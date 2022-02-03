@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Profile Pages
 
-You can use the [editor on GitHub](https://github.com/druzxh/profile-developer/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Follow me on Social Media
+Instagram
+Facebook
+Twitter
+
+Contact me
+Email
+Telegram
+
+Thanks for support 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
